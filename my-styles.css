@@ -1,26 +1,26 @@
 body {
     padding-top: 0%;
     margin: 0%;
-    background-color: rgb(0, 0, 0);
+    background-color: white(0, 0, 0);
 }
 .footerdiv {
-    background-color: rgb(0, 0, 0);
+    background-color: white(0, 0, 0);
 }
 .heading {
-    color: blueviolet;
+    color: #030027;
     font-size: 60px;
     font-family: georgia, serif;
     text-align: center;
 }
 
 .subheading {
-    color: blueviolet;
+    color: #030027;
     font-size: 40px;
     font-family: georgia, serif;
 }
 
 .maintext {
-    color: violet;
+    color: #151E3F;
     font-family: garamond, serif;
     font-size: 20px;
     
@@ -50,21 +50,30 @@ body {
 }
 
 #list {
-    color: violet;
+    color: #151E3F;
     list-style-type: none;
     font-size: 18px;
     font-family: garamond, serif;
 }
-
+#extra2 {
+    
+    font-weight: bold;
+    font-size: 20px;
+}
+#advCountdown {
+    font-size: 30px;
+    font-weight: bolder;
+    color: #990D35;
+}
 #footer1 {
     display: inline;
     float: inline-start;
     margin-left: 1%;
-    background-color: rgb(0, 0, 0);
+    background-color: white(0, 0, 0);
 }
 #footer2 {
     display: inline;
     float: inline-end;
     margin-right: 1%;
-    background-color: rgb(0, 0, 0);
+    background-color: white(0, 0, 0);
 }
