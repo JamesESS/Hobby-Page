@@ -2,6 +2,7 @@ body {
     padding-top: 0%;
     margin: 0%;
     background-color: white(0, 0, 0);
+    padding-left: 2%;
 }
 .footerdiv {
     background-color: white(0, 0, 0);
@@ -28,14 +29,14 @@ body {
 
 #intro {
     padding-right: 55%;
-    padding-left: 5%;
+    /* padding-left: 5%; */
     padding-bottom: 100px;
     
 }
 
 #bpimg {
     float: left;
-    padding-left: 5%;
+    /* padding-left: 5%; */
     margin-right: 5%;
 }
 
